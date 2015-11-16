@@ -1,0 +1,305 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: 3UE3XXIXGB0K/YkgTby06oNt9Hk=
+
+Name: assets/contact.html
+SHA1-Digest: POfo5+s0FR9cybI1hS34vYPZDWI=
+
+Name: assets/images/stock/d1.png
+SHA1-Digest: 3eLypQ27RP1+qMyc8ySzpfj0SMc=
+
+Name: assets/images/facebook.png
+SHA1-Digest: 4ZIPKluXpEifO0ulBOEg7BVS9es=
+
+Name: assets/games.html
+SHA1-Digest: SeOHPq1xrEkdRUax9KbOskSXilM=
+
+Name: assets/shared.html
+SHA1-Digest: k3Vfxxkl882aR1jOPOiEQaVT2dM=
+
+Name: assets/js/slider.min.js
+SHA1-Digest: 91YpDstXXl94glJ9GCWAymfUgTU=
+
+Name: assets/pot.html
+SHA1-Digest: TL1TcsAfD/NNcllLfGP3Fb0zAlQ=
+
+Name: assets/css/style.css
+SHA1-Digest: d/+Ny2TnclS5L0fo8rJWDOrPVr8=
+
+Name: assets/images/add.png
+SHA1-Digest: JJQwm0qZ8EH15Lq7AsPohoAvdBg=
+
+Name: assets/images/color_schema-httpcolorschemedesigner.com#3w11Tw0w0
+ w0w0.jpg
+SHA1-Digest: m0KTNaHG4ctbdo8RrHZHJdyT2/E=
+
+Name: assets/images/stock/5.jpg
+SHA1-Digest: OySwlOyhmR5hxk9rUtvVywYD2Lw=
+
+Name: assets/emp.html
+SHA1-Digest: KrAuwxs7+uF5g2ObfgiS2ZLVuiQ=
+
+Name: assets/images/stock/1.jpg
+SHA1-Digest: 121GfAkz/2HW8AKp+A2qiqRwyIM=
+
+Name: assets/images/stock/sa15.jpg
+SHA1-Digest: Y/vNkWcdSaLSJPuF9PnJPaIlA3Q=
+
+Name: assets/images/stock/7.jpg
+SHA1-Digest: t3X030fkWS6YqmGQML6thLEQVpY=
+
+Name: assets/adhar.html
+SHA1-Digest: WjPu7IUueZdtm3XVl4udX1V8ziU=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: WvsoZfcfGbz7vtTCwzXLh3VcxFw=
+
+Name: assets/images/stock/m1.png
+SHA1-Digest: MLjQ/2TagO0/fdwhYpUdP0x6wfY=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: 5yHLClfoqm5RoePHv6lfuGp/OxQ=
+
+Name: assets/images/stock/m2.png
+SHA1-Digest: ovT3rjlLiNtmyweH1eppX0/Yyv0=
+
+Name: assets/images/stock/sa13.jpg
+SHA1-Digest: HsIJa9o5SiTlMErAXt9kp7kgqC4=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: 0oRDYl4wUOm0bMq8eVLJG09zkTg=
+
+Name: assets/images/stock/sa4.jpg
+SHA1-Digest: MLoGhFam/9dMnJ+2/V5MAt998Bs=
+
+Name: assets/images/mail.png
+SHA1-Digest: 5wLw8JJqn9FCw4aFU0Yoe6wuzv4=
+
+Name: assets/images/stock/4.jpg
+SHA1-Digest: JogyaBxtWUVDjsBdU1SgJBLLL2A=
+
+Name: resources.arsc
+SHA1-Digest: xof4p8fbl9TcvYJoc4Z1/aLqR7I=
+
+Name: assets/images/stock/d4.png
+SHA1-Digest: sgUvWUntsL40IgL8BV3ozg7NNKw=
+
+Name: assets/images/stock/d5.png
+SHA1-Digest: BaHLY3CiD/ZwyvIPa+TlDZ3OwKY=
+
+Name: assets/images/home.png
+SHA1-Digest: z3/pLsZ3BbVHyjBdAzTSnG/KRq4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: EwlHuoswTVpHD6vWQneHdvIaKTE=
+
+Name: assets/zap.html
+SHA1-Digest: tMuLSAFd1REKlziFPo/B+AX1BGU=
+
+Name: assets/play.html
+SHA1-Digest: eEhksF4qqDdFqYUHKY9i69g92sA=
+
+Name: assets/images/stock/sa9.jpg
+SHA1-Digest: DH17s7Hd8BGDG2ye0S84uk3v3Ck=
+
+Name: assets/images/stock/sa16.jpg
+SHA1-Digest: FkcsnGzALGxQ1IObWtNMFIOFmVY=
+
+Name: assets/images/stock/b4.png
+SHA1-Digest: iW/KXayIdsAlH0SbyNoUmIGozjc=
+
+Name: assets/images/stock/6.jpg
+SHA1-Digest: bS6QVoAKmsLtVLbiM++85zm+bcM=
+
+Name: assets/images/stock/3.jpg
+SHA1-Digest: jE1WQ4DmdLXuycaxni3d0ncla+4=
+
+Name: assets/images/stock/m3.png
+SHA1-Digest: D8gCVLX09kVfRjmXiaxmf5bgh1g=
+
+Name: assets/images/bg.jpg
+SHA1-Digest: oL8hRbBpVadsqwuIM9UgWxui0Wk=
+
+Name: classes.dex
+SHA1-Digest: TAsZIXmFEuXUVTip6vO8Ukq9eOg=
+
+Name: assets/images/stock/m4.png
+SHA1-Digest: eQyXAR/DOOePBWNtg8z/051v+q4=
+
+Name: assets/images/stock/sa12.jpg
+SHA1-Digest: 6NAMwJA+l9nVO9rFZQc3R//CAOU=
+
+Name: assets/images/twitter.png
+SHA1-Digest: GIIyTRPzfmrdoRxHiHUWnLGvgH4=
+
+Name: res/menu/activity_splash.xml
+SHA1-Digest: yrozVZGm66CM58UiIfMNXyj3ass=
+
+Name: assets/images/stock/sa5.jpg
+SHA1-Digest: 96+YAjqLohYAV0zvvPeFykjq7/w=
+
+Name: res/drawable-mdpi/gsf.jpg
+SHA1-Digest: 0vrrvjTH3NxuTMctGR+Fcm81hzk=
+
+Name: assets/referance.html
+SHA1-Digest: IN9DaIoY1/11Zs2ZOD16hBExZAU=
+
+Name: assets/images/bubble.png
+SHA1-Digest: GDR3SsMqyF1Up6TFHyd+PgTGgZk=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: QCTcLwlit8CvHF/GW/hms5uwZP8=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: HJWVdRCXqdgpLGGDT6Uzb5hkqQE=
+
+Name: res/drawable-mdpi/ic_action_search.png
+SHA1-Digest: jAGFiT7RUDOYcmBQqk2FP01Xtb0=
+
+Name: res/drawable-mdpi/download.jpg
+SHA1-Digest: tPo88iWEAWGh30iFLr9DYFXEgkE=
+
+Name: assets/images/logo.jpg
+SHA1-Digest: e7I8YEE7v92qLt9DuGc1pme0rCg=
+
+Name: res/layout/activity_splash.xml
+SHA1-Digest: Qu7SgE/+7ZZWINZa0gSS0mGdR0w=
+
+Name: assets/zoom.html
+SHA1-Digest: pJBeX0vneM1AEozCHc5tEiNZgJw=
+
+Name: assets/images/quotes.png
+SHA1-Digest: Zt1To0v4VSBF63/Raacyjsh570U=
+
+Name: assets/images/stock/sa6.jpg
+SHA1-Digest: zaANvIXpBGf/pCrHNFEd1yIxL7M=
+
+Name: assets/images/stock/b1.png
+SHA1-Digest: e8D33nskaEEjK6DC/aOSZJ1O7D4=
+
+Name: assets/about.html
+SHA1-Digest: /ENe3/J5FGBtEKCFmLyO4pb/c3w=
+
+Name: assets/images/stock/sa7.jpg
+SHA1-Digest: OSZDGAK7Tl4HbPJtqOLpMlgxD1o=
+
+Name: assets/images/gear.png
+SHA1-Digest: jMey8TkWWG/uZF/0NPNnrh0IYLE=
+
+Name: assets/images/stock/sa2.jpg
+SHA1-Digest: unTEmO/jCV4Kd9I9mbmsRw5XylY=
+
+Name: assets/images/info.png
+SHA1-Digest: 0ZNrd7cVgBJmqsJcldxd0oqwCCU=
+
+Name: assets/services.html
+SHA1-Digest: qh7je9KroxLBLZiQXaY/rhn/4+g=
+
+Name: assets/silverpush.properties
+SHA1-Digest: ILbrLbcfNLo9QCYY8hby3aEJVhQ=
+
+Name: assets/about2.html
+SHA1-Digest: 9x5xHLwULxgN9HGA7bgz0fO1kzE=
+
+Name: assets/images/stock/sa3.jpg
+SHA1-Digest: wEQenl3laoktqdMfSpiXkP0T60M=
+
+Name: assets/images/stock/logo.jpg
+SHA1-Digest: driolCGaq7gwkrfNRvR+U36dVWE=
+
+Name: assets/images/stock/2.jpg
+SHA1-Digest: wHIZs68A3rUtUKU9poM4yW7S2qE=
+
+Name: assets/silverpush.html
+SHA1-Digest: kahKKouRsWqZXog7w7mb0ue4N6M=
+
+Name: assets/edu.html
+SHA1-Digest: M3jt6RytezRW9Qik0ZMMypgz1l8=
+
+Name: assets/ginger.html
+SHA1-Digest: cnN5DEUpz6k/m9VEzuEv7lpZewo=
+
+Name: assets/bb.html
+SHA1-Digest: 60RxnQ165rCXyaEXyYua/DyTkHU=
+
+Name: res/drawable-xhdpi/ic_action_search.png
+SHA1-Digest: 772ITFXOlprwo44bOLvLMa3Vdeg=
+
+Name: assets/images/stock/b3.png
+SHA1-Digest: N4JeCFpxS9JqpW5rX2Y0n87bi3w=
+
+Name: assets/images/gplus.png
+SHA1-Digest: Y58SV4zvR9lnV5Q3Xl1QfI6h9+E=
+
+Name: assets/images/stock/sa17.jpg
+SHA1-Digest: 4eHYR7+IAd4YEVCdNLaxq9dwS+E=
+
+Name: assets/images/menu.png
+SHA1-Digest: 7XHJIShEiqrYP2na4Df5Ca8y0QM=
+
+Name: assets/index.html
+SHA1-Digest: L0x0PXkzPLTG2jCJUjcn8yxCbnM=
+
+Name: assets/images/stock/d2.png
+SHA1-Digest: b2DXVjCoHyH7mx5ZhW41KX4uzRM=
+
+Name: assets/images/call.png
+SHA1-Digest: VmZqrFslYX9lmVsN8c/y7Rnhe+s=
+
+Name: assets/images/stock/b5.png
+SHA1-Digest: Ety10MM7FhrnGXUDxsz2V2XNTI4=
+
+Name: assets/images/stock/readme.txt
+SHA1-Digest: mSYo+NAhnBY4e0/9h6/Q+wOgM3o=
+
+Name: assets/images/stock/d3.png
+SHA1-Digest: aFfVy+3aUrOkcqbKTzcYsHOk4Pk=
+
+Name: assets/images/stock/sa10.jpg
+SHA1-Digest: p5pBVbQPgi4Ar+8qpSV8r+hqCjM=
+
+Name: assets/License.txt
+SHA1-Digest: 0aGube52Eo0C+aJvXeDLEdG3/+8=
+
+Name: assets/hack.html
+SHA1-Digest: Pbld50TNCvSk3Sl/jfIGRyWKFcA=
+
+Name: assets/images/stock/d6.png
+SHA1-Digest: /CYQDqn2903f57DGMTYBZUkZL4w=
+
+Name: assets/lit.html
+SHA1-Digest: j25pd54zB9Uh/kk8127qY1L3+ow=
+
+Name: res/drawable-mdpi/d1.png
+SHA1-Digest: 3UVZQVhgzLfbZW3ZoeJ2dasp8kk=
+
+Name: assets/tush.html
+SHA1-Digest: Xtrg3L5KbQWegtwXzyZ2iv77awA=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 73TZoa+3ApYPkY+wbmr1XiAso58=
+
+Name: assets/images/stock/sa14.jpg
+SHA1-Digest: aZQ9KPZ7j3kPfK1NqFJFhfCN8ok=
+
+Name: assets/js/jquery.min.js
+SHA1-Digest: zI33TeZFrXwBfaIAA8gJwgZQApg=
+
+Name: res/drawable-mdpi/gsflogo.jpg
+SHA1-Digest: 6wN6ieBNKPluK3z76nlG3NqamCQ=
+
+Name: assets/images/stock/sa8.jpg
+SHA1-Digest: WOXROXeeN22F+fB/cA5F5+KcSK0=
+
+Name: assets/images/navigation.png
+SHA1-Digest: HCXSEU3ikJ3UitHvfoLeiGgMWD0=
+
+Name: assets/images/stock/sa1.jpg
+SHA1-Digest: PZwxalXZVro6TkT9bYh4k3APdE8=
+
+Name: assets/images/stock/b2.png
+SHA1-Digest: U9nbBuHlj7Xp1ObCTdrDix5xoBA=
+
+Name: assets/images/stock/sa11.jpg
+SHA1-Digest: vejkSGNeSCdoDOiWGgpKDKP/Ok4=
+
