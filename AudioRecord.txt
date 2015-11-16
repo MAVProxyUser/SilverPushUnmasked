@@ -1,0 +1,9 @@
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/m.java:16:  private AudioRecord h;
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/m.java:35:      this.h = new AudioRecord(this.f, this.g, this.d, this.e, this.j);
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/n.java:7:  implements AudioRecord.OnRecordPositionUpdateListener
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/n.java:13:  public void onMarkerReached(AudioRecord paramAudioRecord)
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/n.java:17:  public void onPeriodicNotification(AudioRecord paramAudioRecord)
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/p.java:9:    int i = AudioRecord.getMinBufferSize(44100, 16, 2);
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/p.java:23:          AudioRecord localAudioRecord = new AudioRecord(1, 44100, 16, 2, m);
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/p.java:24:          if (localAudioRecord.getState() != 1)
+SilverPush Beacon Demo App_v1.0.3.src/com/silverpush/democrossdevice/p.java:26:          localAudioRecord.release();
