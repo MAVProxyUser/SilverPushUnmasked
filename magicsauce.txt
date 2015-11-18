@@ -1,0 +1,107 @@
+public String frequencyToChannel(int frequency) {
+    switch (frequency) {
+        case 18000:
+            return "A";
+        case 18075:
+            return "B";
+        case 18150:
+            return "C";
+        case 18225:
+            return "D";
+        case 18300:
+            return "E";
+        case 18375:
+            return "F";
+        case 18450:
+            return "G";
+        case 18525:
+            return "H";
+        case 18600:
+            return "I";
+        case 18675:
+            return "J";
+        case 18750:
+            return "K";
+        case 18825:
+            return "L";
+        case 18900:
+            return "M";
+        case 18975:
+            return "N";
+        case 19050:
+            return "O";
+        case 19125:
+            return "P";
+        case 19200:
+            return "Q";
+        case 19275:
+            return "R";
+        case 19350:
+            return "S";
+        case 19425:
+            return "T";
+        case 19500:
+            return "U";
+        case 19575:
+            return "V";
+        case 19650:
+            return "W";
+        case 19725:
+            return "X";
+        case 19800:
+            return "Y";
+        case 19875:
+            return "Z";
+        case 19950:
+            return "a";
+        default:
+            return null;
+    }
+}
+
+"AG" for the Hungama ad was 18000 followed by 18450 followed by 18000
+
+It is NOT understand why we need to put the second 18k tone there. 
+
+1. Ads are two letter sequences
+2. Online ads are five letter sequences (untested)
+3. You can't have two of the same letter in the sequence. 
+
+############ Example code snippet implementing the above logic ###################
+
+        Toast.makeText(this.b, "Connect to Internet or Run in OFFLINE mode.", 1).show();
+        MainActivity.e(this.b).setText("Internet Not Available");
+        return;
+        str1 = this.b.n.a(paramInt, 2);
+      }
+      while (str1 == null);
+      if (str1.contains("AG"))
+      {
+        this.b.a("Hungama TV Ad", "http://ad-x.co.uk/API/click/Hungind45789jo/am554ec53dd8d021/NET/aff_sub/SilverPush?subid=aff_sub2&ord=[random]", "hungama_big.jpeg", "hungama_small.jpeg");
+        return;
+      }
+      if (str1.contains("AD"))
+      {
+        this.b.a("SilverPush TV Ad", "http://silverpush.com", "silverpush_big.png", "silverpush_small.png");
+        return;
+      }
+      if (str1.contains("AJ"))
+      {
+        this.b.a("Mobext TV Ad", "http://mobext.com", "mobext_big.png", "mobext_small.png");
+        return;
+      }
+      if (str1.contains("AP"))
+      {
+        this.b.a("Geico TV Ad", "https://www.geico.com/", "hump_big.jpg", "hump_small.jpg");
+        return;
+      }
+      if (str1.contains("AK"))
+      {
+        this.b.a("Amity TV Ad", "http://www.amity.edu//", "amity_big.png", "amity_small.png");
+        return;
+      }
+    }
+    while (!str1.contains("AU"));
+    this.b.a("HUL TV Ad", "https://play.google.com/store/apps/details?id=com.modiface.lakme.makeuppro&hl=en", "hul_big.png", "hul_small.png");
+
+
