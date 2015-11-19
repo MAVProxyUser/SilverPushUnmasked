@@ -1,0 +1,14 @@
+#!/bin/sh
+mkdir -p ToneGenerator.app/Contents/MacOS
+
+cp -f Gui.tcl ToneGenerator.app/Contents/MacOS
+cp -f generator ToneGenerator.app/Contents/MacOS
+
+echo '<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>Gui.tcl</string>
+</dict>
+</plist>' > ToneGenerator.app/Contents/Info.plist
